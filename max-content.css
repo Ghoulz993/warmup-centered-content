@@ -1,0 +1,18 @@
+body {
+    margin:0;
+}
+
+.header {
+    background-color:crimson;
+    padding: 60px;
+}
+
+.main {
+    background-color:dimgray;
+    padding: 60px;
+}
+
+.wrapper {
+    max-width: 600px;
+    margin: auto;
+}

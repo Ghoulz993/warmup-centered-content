@@ -1,0 +1,18 @@
+body {
+    margin:0;
+}
+
+.header {
+    background-color:cornflowerblue;
+    padding: 25px;
+}
+
+.main {
+    background-color:mediumorchid;
+    padding: 25px;
+}
+
+.wrapper {
+    max-width:600px;
+    margin:auto;
+}
